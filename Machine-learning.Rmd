@@ -1,0 +1,71 @@
+---
+title: "Machine learning"
+author: "Siddhant Santosh Rattu"
+date: "12/23/2020"
+output: html_document
+---
+
+
+Machine learning is a subset of artificial intelligence, which build a mathematical model based on sample data, known as “training data,” in order to make predictions or decisions without being explicitly programmed to perform the task.
+
+
+# Machine learning tree
+
+:[Machine learning tree](https://media.springernature.com/lw785/springer-static/image/chp%3A10.1007%2F978-981-15-2770-8_6/MediaObjects/492994_1_En_6_Fig1_HTML.png)
+
+
+
+## Machine learning and AI 
+
+Artificial Intelligence is the broader concept of machines being able to carry out tasks in a way that we would consider “smart” and,Machine Learning is a current application of AI based around the idea that we should really just be able to give machines access to data and let them learn for themselves.
+
+
+
+## Machine learning importance
+
+Due to factors such as increasing varieties and volumes of available data, affordable data storage, and computational processing that is more powerful and cheaper – there has been a resurging interest in machine learning.
+
+All these factors make it possible to automatically and quickly create applications that can process larger, more sophisticated data and yield swifter, more accurate outcomes – even on a much bigger scale. And by developing accurate applications, a company is better positioned to identify lucrative opportunities and/or avoid hidden risks.
+
+
+## Uses of Machine Learning
+
+Below are some use cases :
+
+- Financial Services
+Many businesses in the financial and banking industry utilize ML for 2 main purposes: to identify key insights in data and prevent fraudulent acts. These important insights help to recognize lucrative investment opportunities, or assist investors know the best time to trade. Data mining also helps to use cybersurveillance to indicate  warning signs of cyber fraud or identify high-risk profile clients.
+
+
+- Environmental monitoring
+Public agencies aiming to enforce environmental regulation have limited resources to achieve their objectives. Machine-learning methods can inform the efficient use of these limited resources while accounting for real-world concerns, such as gaming the system and institutional constraints.Predict the likelihood of a facility failing a water-pollution inspection and propose alternative inspection allocations that would target high-risk facilities. Implementing such a data-driven inspection allocation could detect over seven times the expected number of violations than current practices. When we impose constraints, such as maintaining a minimum probability of inspection for all facilities.
+
+
+
+
+- Government
+Government institutions like utilities and public safety have a specific need for ML because they have numerous data sources that can be mined to get insights. For example, analysing sensor data presents methods of increasing efficiency and saving money. The government can also use ML to detect fraud and reduce identify theft.
+
+- Health care
+The healthcare sector is not left out in the fast-growing trend of ML. The industry now uses wearable sensors and devices that can utilise data to examine the health of a patient in real-time. Machine learning can also lead to the advent of technology that will assist medical specialists evaluate data to detect red flags or patterns that might lead to better treatment or diagnoses.
+
+- Oil and gas
+The volume of ML use cases in this sector is vast. From discovering new energy sources, examining minerals under the earth, forecasting refinery sensors malfunction, to streamlining oil distribution so as to make it cost-effective and more efficient – the use cases are many and still expanding.
+
+# Machine Learning applications
+
+Machine learning algorithms are employed in cases where the solution is needed to promote post-deployment improvement. The application of ML algorithms and models are versatile and can be utilised as an alternative to average-skilled human effort under the appropriate conditions. For instance, natural language processing machine language called chatbots have already replaced customer service administrators in big B2C companies. These chatbots have the ability to evaluate customer queries and offer support for human customer assistance administrators or interact directly with the customers.
+
+In addition, ML algorithms are applied to help enhance customization and user experience for online platforms. Amazon, Google, Netflix, and Facebook all utilise recommendation systems to eliminate content glut and deliver personalized content to each user based on their things they like and dislike.
+
+# Future of Machine Learning
+
+Machine learning has been one of the top tech new topics in recent months and is now being widely applied to businesses. Briefly, machine learning (ML) is an application of AI (artificial intelligence) that allows systems to learn and improve without being directly programmed. Focussing on the development of computer programs that can access data in order to learn autonomously, machine learning is being used by Google on its AI Platform which is bringing all its services, from data preparation to the training, tuning, deploying, collaborating and sharing of machine learning models.
+
+Machine learning-driven solutions are being leveraged by organizations to improve customer experience, ROI, and to gain a competitive edge in business. Big players in the field like Google, IBM, Microsoft, Apple, and Salesforce are already leveraging ML benefits.
+
+# Conclusion
+
+Machine learning has made dramatic improvements in the past few years, but we are still very far from reaching human performance. Many times, the machine needs the assistance of human to complete its task. At Interactions, we have deployed Virtual Assistant solutions that seamlessly blend artificial with true human intelligence to deliver the highest level of accuracy and understanding.
+
+
+

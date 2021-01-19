@@ -1,6 +1,6 @@
 ---
 title: "Machine learning"
-author: "Siddhant Santosh Rattu"
+author: :[Siddhant Santosh Rattu](https://github.com/SiddhantRattu/Machine-learning-Rmarkdown)
 date: "12/23/2020"
 output: html_document
 ---
